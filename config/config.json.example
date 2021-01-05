@@ -1,6 +1,7 @@
 {
   "crawler_server": {
     "host": "http://127.0.0.1",
-    "port": "7001"
+    "port": "7001",
+    "path": "/api/trigger"
   }
 }
