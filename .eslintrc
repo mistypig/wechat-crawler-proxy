@@ -1,0 +1,10 @@
+{
+  "extends": "eslint-config-egg",
+  "parser": "babel-eslint",
+  "rules": {
+    "prefer-const": "off",
+    "no-var": "off",
+    "no-inline-comments": "off",
+    "no-unused-vars":"warn"
+  }
+}
